@@ -1,16 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6f472658-9407-4916-bd6f-a8b55acab828" name="Changes" comment="" />
+    <list default="true" id="ff21dfb1-c86e-4935-a1cd-a682f7be8057" name="Changes" comment="tema 7">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calendario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MarcaPaginas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tema7.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MarcaPagina.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2Nk9oX42fogA6IupRTuF7BI3TEB" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2PYsTmwJGpwfzfFVpTL6N2gRp6l" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -25,12 +49,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6f472658-9407-4916-bd6f-a8b55acab828" name="Changes" comment="" />
-      <created>1680197387788</created>
+      <changelist id="ff21dfb1-c86e-4935-a1cd-a682f7be8057" name="Changes" comment="" />
+      <created>1683645359948</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680197387788</updated>
+      <updated>1683645359948</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="tema 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="tema 7" />
   </component>
 </project>
